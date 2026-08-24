@@ -9,7 +9,7 @@ df.main()() = {
 
     [ run all tests ]
     [ get json file ]
-    df.set("./tests/tests.json")(file_path)
+    df.set("./Tests/Tests.json")(file_path)
     df.file_to_buffer(file_path)(json)
 
     [ check if not found ]

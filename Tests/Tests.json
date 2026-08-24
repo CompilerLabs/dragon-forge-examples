@@ -4,32 +4,32 @@
             "name": "Hello World!",
             "manual_checking": true,
             "files": [
-                "./tests/hello_world.df"
+                "./Tests/hello_world.df"
             ]
         },
         {
             "name": "Basics",
             "manual_checking": true,
             "files": [
-                "./tests/basics.df"
+                "./Tests/basics.df"
             ]
         },
         {
             "name": "Scratch",
             "files": [
-                "./tests/scratch.df"
+                "./Tests/scratch.df"
             ]
         },
         {
             "name": "Anvil",
             "files": [
-                "./tests/test_anvil.df"
+                "./Tests/test_anvil.df"
             ]
         },
         {
             "name": "JSON",
             "files": [
-                "./tests/test_json.df"
+                "./Tests/test_json.df"
             ]
         }
     ]
